@@ -1,0 +1,14 @@
+To run the Warranty Analyzer application:
+
+1. Ensure Python 3.10+ is installed on your system.
+2. Install the required dependencies:
+   ```
+   pip install -r warranty_analyzer/requirements.txt
+   ```
+3. Launch the application:
+   ```
+   streamlit run warranty_analyzer/main.py
+   ```
+4. Open the provided URL in your browser to access the application.
+5. Use the sample data file `warranty_analyzer/sample_data.csv` for testing.
+6. Navigate through the app to upload data, analyze trends, detect fraud, and generate reports.

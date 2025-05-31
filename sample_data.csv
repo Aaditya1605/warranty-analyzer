@@ -1,0 +1,6 @@
+part_id,issue_code,date,claim_status
+101,A001,2025-01-15,Approved
+102,A002,2025-02-20,Rejected
+103,A001,2025-03-10,Approved
+104,A003,2025-04-05,Pending
+105,A002,2025-05-12,Approved
